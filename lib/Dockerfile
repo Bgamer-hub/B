@@ -9,16 +9,16 @@
 #    * @author : @SuhailTechInfo
 #    * @youtube : https://www.youtube.com/SuhailTechInfo
 #    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
-#    * @version 1.4
+#    * @version 1.4.0
 
 
  
 
 FROM quay.io/suhailtechinfo/suhail-v2
-RUN git clone https://github.com/SuhailTechInfo/Suhail-Md /root/suhail
+RUN git clone https://github.com/SuhailTechInfo/Suhail-Md-V5 /root/smd
 # RUN rm -rf /root/luv/.git
-WORKDIR /root/suhail
-RUN npm install || yarn install
+WORKDIR /root/smd
+RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
 
