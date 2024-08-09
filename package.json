@@ -61,7 +61,7 @@
              "util": "^0.12.4",
              "wa-sticker-formatter": "^4.3.2",
              "youtubei.js": "latest",
-             "ytdl-secktor": "@distube/ytdl-core@latest",
+             "ytdl-secktor": "npm:@distube/ytdl-core@latest",
              "link-preview-js": "^3.0.0",
             "puppeteer": "latest"
    },
