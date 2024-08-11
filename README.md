@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> MESH-TECH </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://youtube.com/@MeshKip">
     <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> Mesh-Tech whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
