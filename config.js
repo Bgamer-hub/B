@@ -18,10 +18,10 @@ global.DATABASE_URL = process.env.DATABASE_URL || "mongodb+srv://Hamza:3800380ww
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github=process.env.GITHUB|| "https://github.com/DJMESHK/Suhail-Md";
-global.gurl  =process.env.GURL  || "";
-global.website=process.env.GURL || "" ; 
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VagAqpD3gvWdo0IxmZ2Z";
+global.website=process.env.GURL || "" //" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/DJMESHK/Suhail-Md/blob/main/lib/assets/Suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "🄿🄾🅆🄴🅁🄴🄳 🄱🅈 🄼🄴🅂🄷-🅃🄴🄲🄷" 
+global.caption = process.env.CAPTION || global.caption || "*𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 𝘔𝘦𝘴𝘩-𝘛𝘦𝘤𝘩" 
 
 
 global.devs = "254707541188" // Developer Contact
@@ -72,11 +72,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.4.0",
-  caption : global.caption || "*POWERED BY MESH*",
+  caption : global.caption || "*𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 𝘔𝘦𝘴𝘩-𝘛𝘦𝘤𝘩*",
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "🄼🄴🅂🄷-🅃🄴🄲🄷",
+  botname : process.env.BOT_NAME  || "𝐌𝐄𝐒𝐇-𝐓𝐄𝐂𝐇",
   ownername:process.env.OWNER_NAME|| "Mesh Ke",
 
 
