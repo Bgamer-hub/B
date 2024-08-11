@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/DJMESHK/Suhail-Md";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VagAqpD3gvWdo0IxmZ2Z";
 global.website=process.env.GURL || "" //" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/DJMESHK/Suhail-Md/blob/main/lib/assets/Suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "*𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 𝘔𝘦𝘴𝘩-𝘛𝘦𝘤𝘩" 
+global.caption = process.env.CAPTION || global.caption || "*𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙼𝙴𝚂𝙷-𝚃𝙴𝙲𝙷*" 
 
 
 global.devs = "254707541188" // Developer Contact
@@ -76,8 +76,8 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "𝐌𝐄𝐒𝐇-𝐓𝐄𝐂𝐇",
-  ownername:process.env.OWNER_NAME|| "Mesh Ke",
+  botname : process.env.BOT_NAME  || "*𝐌𝐄𝐒𝐇-𝐓𝐄𝐂𝐇*",
+  ownername:process.env.OWNER_NAME|| "ℳℯ𝓈𝒽 𝒦ℰ",
 
 
   errorChat : process.env.ERROR_CHAT || "",
